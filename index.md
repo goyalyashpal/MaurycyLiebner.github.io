@@ -38,7 +38,7 @@ Enve was created with flexibility and expandability in mind.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="http://www.cgchannel.com/2020/01/check-out-promising-open-source-2d-animation-tool-enve/" target="_blank">
-    <img src="https://pbs.twimg.com/profile_images/1381566871430905856/E1ux_Dmo_400x400.jpg" alt="CG Channel" height="64" border="10" hspace="20"/>
+    <img src="https://pbs.twimg.com/profile_images/1679404815183499264/8-2qsI_T_400x400.png" alt="CG Channel" height="64" border="10" hspace="20"/>
   </a>
 </p><br/>
 
